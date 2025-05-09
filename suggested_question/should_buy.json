@@ -1,0 +1,171 @@
+{
+    "type": "done",
+    "data": {
+        "response": [
+            {
+                "text": {
+                    "text": [
+                        "Whether you should buy <ticker>NVDA</ticker> depends on your risk profile and investment goals."
+                    ]
+                }
+            },
+            {
+                "text": {
+                    "text": [
+                        "You currently do not hold any securities in your portfolio, so you have no direct or indirect exposure to <ticker>NVDA</ticker>."
+                    ]
+                }
+            },
+            {
+                "text": {
+                    "text": [
+                        "Unfortunately, there are no newsletter recommendations available for <ticker>NVDA</ticker> at this time."
+                    ]
+                }
+            }
+        ],
+        "responseOptions": [
+            {
+                "type": "TEXT",
+                "label": "Compare NVDA with its peers",
+                "cta_data": "Compare NVDA with its peers",
+                "id": 424120,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Should I buy NVDA?",
+                "cta_data": "Should I buy NVDA?",
+                "id": 422387,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "What is the Current Price of NVDA?",
+                "cta_data": "What is the Current Price of NVDA?",
+                "id": 422850,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Latest news about my portfolio",
+                "cta_data": "Latest news about my portfolio",
+                "id": 421502,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Top performing holdings in my portfolio",
+                "cta_data": "Top performing holdings in my portfolio",
+                "id": 421476,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "What else can I ask Magnifi?",
+                "cta_data": "CHEATSHEET",
+                "id": 418882,
+                "origin": "drone-global-intent"
+            }
+        ],
+        "intent_handler": "mozart_generic",
+        "matched_intent": "mozart_intent",
+        "um_is_clickable": true,
+        "responseTimestamp": "2025-05-09 00:27:51.892831+00:00",
+        "model_output": {},
+        "llm_fulfillment_engine": "mozart",
+        "response_time": {
+            "cold_start_latency": "0.0129",
+            "siesta_latency": "0.0774",
+            "active_module_latency": "0.0012",
+            "module_classifier_latency": "0.1809",
+            "coordinator_latency": "0.0000",
+            "matching_latency": "0.0004",
+            "fulfillment_latency": "5.4831",
+            "satellite_entry_check_latency": "0.0017",
+            "drone_latency": "0.3806",
+            "ending_latency": "0.0028",
+            "total_latency": "6.1412",
+            "time_to_first_token": "1.9021",
+            "response_times": {
+                "rag_fulfillment_response_time": "0.0000",
+                "fulfillment_response_time": "0.0000",
+                "parser_response_time": "0.0764",
+                "module_classifier_response_time": "0.1785",
+                "mozart_time": {
+                    "total": "2.6672",
+                    "beginning": {
+                        "latency": "0.4703",
+                        "parser": {
+                            "latency": "0.2598"
+                        },
+                        "rag_lookup": {
+                            "latency": "0.2022"
+                        }
+                    },
+                    "orchestration": {
+                        "latency": "0.1868",
+                        "orch_cache_lookup": {
+                            "latency": "0.0007"
+                        },
+                        "orch_sanitize": {
+                            "latency": "0.0000"
+                        },
+                        "orch_llm": {
+                            "latency": "0.0000"
+                        },
+                        "orch_desanitize": {
+                            "latency": "0.0000"
+                        }
+                    },
+                    "dispatching": {
+                        "latency": "0.2841",
+                        "newsletter_search|0": "0.1169",
+                        "get_portfolio|1": "0.1685",
+                        "get_attribute|2": "0.0067",
+                        "calculate|3": "0.0067",
+                        "sort|4": "0.0105",
+                        "aggregate|5": "0.0239",
+                        "analyze_impact|6": "0.0243"
+                    },
+                    "generation": {
+                        "latency": "1.7258",
+                        "gen_cache_lookup": {
+                            "latency": "0.0000"
+                        },
+                        "llm_calls": {
+                            "latency": "1.7117",
+                            "gen_sanitize": {
+                                "latency": "0.0202"
+                            },
+                            "gen_llm": {
+                                "latency": "1.6885"
+                            },
+                            "gen_desanitize": {
+                                "latency": "0.0001"
+                            },
+                            "chart_sanitize": {
+                                "latency": "0.0000"
+                            },
+                            "chart_llm": {
+                                "latency": "0.0000"
+                            },
+                            "chart_desanitize": {
+                                "latency": "0.0000"
+                            }
+                        },
+                        "verify_numbers_in_response": {
+                            "latency": "0.0013"
+                        }
+                    },
+                    "ending": {
+                        "latency": "0.0001"
+                    }
+                }
+            }
+        },
+        "use_cached_result": false,
+        "is_new_parser_used": true
+    },
+    "name": "result"
+}

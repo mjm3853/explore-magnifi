@@ -1,0 +1,19 @@
+{
+    "data": {
+        "profile": {
+            "achRelations": [],
+            "portfolio": {
+                "brokerAccountsLinked": [],
+                "withdrawableAmount": 0,
+                "buyingPower": 0,
+                "settledBalance": 0,
+                "heldawayCash": 0,
+                "mmiCash": 0,
+                "cashBalance": 0,
+                "totalAccountValue": 0,
+                "total": 0,
+                "holdings": []
+            }
+        }
+    }
+}

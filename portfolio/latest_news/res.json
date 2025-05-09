@@ -1,0 +1,341 @@
+{
+    "type": "done",
+    "data": {
+        "response": [
+            {
+                "text": {
+                    "text": [
+                        "I have looked at your direct and indirect holdings. Here is the percentage exposure you have to each security in your portfolio:"
+                    ]
+                }
+            },
+            {
+                "text": {
+                    "text": [
+                        "- Apple Inc. (<ticker>AAPL</ticker>): 3.09% (direct: 0.37%, indirect: 2.72%)\n- Meta Platforms Inc Class A (<ticker>META</ticker>): 2.17% (indirect: 2.17%)\n- Amazon.com Inc (<ticker>AMZN</ticker>): 1.79% (indirect: 1.79%)\n- Alphabet Inc Class A (<ticker>GOOGL</ticker>): 1.00% (direct: 0.04%, indirect: 0.96%)\n- Alphabet Inc Class C (<ticker>GOOG</ticker>): 0.67% (indirect: 0.67%)"
+                    ]
+                }
+            },
+            {
+                "text": {
+                    "text": [
+                        "Here are some articles about these holdings:"
+                    ]
+                }
+            },
+            {
+                "key": "",
+                "type": "NEWS_CAROUSSEL",
+                "data": {
+                    "metadata": {
+                        "source": "",
+                        "title": "Important news on AAPL, PLTR, DIS, AMZN, META, GOOGL and GOOG",
+                        "subtitle": "",
+                        "timeperiod": ""
+                    },
+                    "item": [
+                        {
+                            "news_url": "https://www.cnbc.com/2025/05/08/palantir-joins-top-10-most-valuable-tech-companies-stock-at-premium.html",
+                            "image_url": "https://cdn.snapi.dev/images/v1/q/l/d/pl3-2731532-3076244.jpg",
+                            "title": "Palantir now among 10 most valuable U.S. tech companies \u2014 its earnings multiple is astronomical",
+                            "text": "Data analytics and artificial intelligence software firm Palantir joined the top 10 largest U.S. technology companies by market cap on Thursday. The stock rose about 8%, lifting the company's valuation to $281 billion, surpassing Salesforce, which is 10 times bigger in terms of revenue.",
+                            "source_name": "CNBC",
+                            "date": "Thu, 08 May 2025 16:06:11 -0400",
+                            "topics": [
+                                "earnings"
+                            ],
+                            "sentiment": "Positive",
+                            "type": "Article",
+                            "tickers": [
+                                "PLTR"
+                            ],
+                            "rank_score": "7.30"
+                        },
+                        {
+                            "news_url": "https://www.foxbusiness.com/markets/apple-warns-court-ruling-app-store-case-may-cost-substantial-sums-annually",
+                            "image_url": "https://cdn.snapi.dev/images/v1/q/f/e/aapl39-2676161-3075925.jpg",
+                            "title": "Apple warns court ruling in App Store case may cost 'substantial sums annually'",
+                            "text": "Apple said in a court filing that a judge's order for it to ease restrictions on app developers would cost it \"substantial sums annually\" if the ruling is allowed to stand.",
+                            "source_name": "Fox Business",
+                            "date": "Thu, 08 May 2025 15:16:48 -0400",
+                            "topics": [],
+                            "sentiment": "Negative",
+                            "type": "Article",
+                            "tickers": [
+                                "AAPL"
+                            ],
+                            "rank_score": "6.95"
+                        },
+                        {
+                            "news_url": "https://www.reuters.com/sustainability/boards-policy-regulation/consumer-watchdog-halts-biden-era-google-payment-supervision-bloomberg-news-2025-05-08/",
+                            "image_url": "https://cdn.snapi.dev/images/v1/p/h/w/goog17-2678830-3075873.jpg",
+                            "title": "Consumer watchdog halts Biden-era Google Payment supervision, Bloomberg News reports",
+                            "text": "The Consumer Financial Protection Bureau discontinued its order designating the supervision of Alphabet's Google Payment Corp, reversing a Biden-era decision to monitor the nonbank financial platform, Bloomberg News reported on Thursday.",
+                            "source_name": "Reuters",
+                            "date": "Thu, 08 May 2025 14:36:38 -0400",
+                            "topics": [
+                                "Political"
+                            ],
+                            "sentiment": "Neutral",
+                            "type": "Article",
+                            "tickers": [
+                                "GOOGL",
+                                "GOOG"
+                            ],
+                            "rank_score": "7.01"
+                        },
+                        {
+                            "news_url": "https://247wallst.com/investing/2025/05/08/palantir-technologies-nasdaq-pltr-stock-price-prediction-for-2025-where-will-it-be-in-1-year/?utm_source=snapi",
+                            "image_url": "https://cdn.snapi.dev/images/v1/3/8/b/pl19-2718428-3075826.jpg",
+                            "title": "Palantir Technologies (NASDAQ: PLTR) Stock Price Prediction for 2025: Where Will It Be in 1 Year",
+                            "text": "After reporting Q1 earnings on May 5, shares of Palantir Technologies (NASDAQ:PLTR) sold-off despite beating Wall Street's estimates on the top and bottom lines and raising its full-year forecast.",
+                            "source_name": "24/7 Wall Street",
+                            "date": "Thu, 08 May 2025 14:14:20 -0400",
+                            "topics": [],
+                            "sentiment": "Neutral",
+                            "type": "Article",
+                            "tickers": [
+                                "PLTR"
+                            ],
+                            "rank_score": "6.80"
+                        },
+                        {
+                            "news_url": "https://www.reuters.com/world/china/apple-is-developing-specialized-chips-smart-glasses-ai-servers-bloomberg-news-2025-05-08/",
+                            "image_url": "https://cdn.snapi.dev/images/v1/6/h/d/aapl18-2682209-3075785.jpg",
+                            "title": "Apple is developing specialized chips for smart glasses and AI servers, Bloomberg News reports",
+                            "text": "Apple is developing specialized chips that will power future devices including its first smart glasses, artificial intelligence servers and new MacBooks, Bloomberg News reported on Thursday.",
+                            "source_name": "Reuters",
+                            "date": "Thu, 08 May 2025 13:46:08 -0400",
+                            "topics": [],
+                            "sentiment": "Positive",
+                            "type": "Article",
+                            "tickers": [
+                                "AAPL"
+                            ],
+                            "rank_score": "8.77"
+                        },
+                        {
+                            "news_url": "https://nypost.com/2025/05/08/business/apple-seeks-pause-on-epic-games-contempt-ruling-that-could-cost-app-store-billions/",
+                            "image_url": "https://cdn.snapi.dev/images/v1/o/o/c/aapl49-2673977-3075599.jpg",
+                            "title": "Apple seeks pause on Epic Games contempt ruling that could cost App Store \u2018billions'",
+                            "text": "Tim Cook's Apple has asked a federal appeals court in California to pause an April 30 ruling requiring the company to open up its App Store to rivals \u2013 and claims it will suffer irreparable harm if it remains in effect.",
+                            "source_name": "New York Post",
+                            "date": "Thu, 08 May 2025 12:40:14 -0400",
+                            "topics": [],
+                            "sentiment": "Negative",
+                            "type": "Article",
+                            "tickers": [
+                                "AAPL"
+                            ],
+                            "rank_score": "6.90"
+                        },
+                        {
+                            "news_url": "https://www.cnbc.com/2025/05/08/amazon-adds-pet-prescriptions-to-its-online-pharmacy-.html",
+                            "image_url": "https://cdn.snapi.dev/images/v1/o/7/p/amaz40-2682399-3075440.jpg",
+                            "title": "Amazon adds pet prescriptions to its online pharmacy",
+                            "text": "Amazon is adding \"hundreds of commonly prescribed pet medications\" to its online pharmacy in the U.S. Prescriptions are dispensed and delivered by Vetsource, an online pet pharmacy, but are ordered through Amazon's storefront.",
+                            "source_name": "CNBC",
+                            "date": "Thu, 08 May 2025 11:40:26 -0400",
+                            "topics": [],
+                            "sentiment": "Positive",
+                            "type": "Article",
+                            "tickers": [
+                                "AMZN"
+                            ],
+                            "rank_score": "8.82"
+                        },
+                        {
+                            "news_url": "https://www.reuters.com/business/retail-consumer/britains-digital-tax-big-tech-not-impacted-by-trade-deal-2025-05-08/",
+                            "image_url": "https://cdn.snapi.dev/images/v1/t/r/i/22wedw-2491586-3075445.jpg",
+                            "title": "Britain's digital tax on 'Big Tech' not impacted by trade deal",
+                            "text": "Britain's digital services tax, imposed on U.S. companies like Amazon , Google and Meta , will not be changed under the terms of the trade deal agreed between the two countries on Thursday, the British government said.",
+                            "source_name": "Reuters",
+                            "date": "Thu, 08 May 2025 11:36:38 -0400",
+                            "topics": [],
+                            "sentiment": "Neutral",
+                            "type": "Article",
+                            "tickers": [
+                                "META",
+                                "AMZN",
+                                "GOOGL",
+                                "GOOG"
+                            ],
+                            "rank_score": "7.42"
+                        },
+                        {
+                            "news_url": "https://nypost.com/2025/05/08/business/disneys-new-abu-dhabi-theme-park-to-cost-over-10b-to-build-but-company-wont-pay-a-dollar/",
+                            "image_url": "https://cdn.snapi.dev/images/v1/i/x/r/disnn10-2465501-2538409-257461-3075290.jpg",
+                            "title": "Disney's new Abu Dhabi theme park to cost over $10B to build \u2014 but it won't cost the company a dollar",
+                            "text": "The entertainment giant announced the landmark project on Tuesday, framing it as a historic moment on par with Disneyland's original debut in 1955.",
+                            "source_name": "New York Post",
+                            "date": "Thu, 08 May 2025 10:36:26 -0400",
+                            "topics": [],
+                            "sentiment": "Positive",
+                            "type": "Article",
+                            "tickers": [
+                                "DIS"
+                            ],
+                            "rank_score": "6.90"
+                        },
+                        {
+                            "news_url": "https://www.cnbc.com/2025/05/07/apple-says-epic-games-contempt-ruling-could-cost-substantial-sums-.html",
+                            "image_url": "https://cdn.snapi.dev/images/v1/o/j/7/aapl2-2687844-3073492.jpg",
+                            "title": "Apple says Epic Games contempt ruling could cost 'substantial sums'",
+                            "text": "Apple wants a court to pause a decision in its case against Epic Games, and allow the iPhone maker to charge commission on in-app transactions that link out for payment. Apple is also looking to pause a ban that prevents it from restricting app developers from choosing the language or placement of those links.",
+                            "source_name": "CNBC",
+                            "date": "Wed, 07 May 2025 22:32:56 -0400",
+                            "topics": [],
+                            "sentiment": "Neutral",
+                            "type": "Article",
+                            "tickers": [
+                                "AAPL"
+                            ],
+                            "rank_score": "7.02"
+                        }
+                    ]
+                }
+            }
+        ],
+        "responseOptions": [
+            {
+                "type": "TEXT",
+                "label": "Latest news about my portfolio",
+                "cta_data": "Latest news about my portfolio",
+                "id": 421502,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Top performing holdings in my portfolio",
+                "cta_data": "Top performing holdings in my portfolio",
+                "id": 421476,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Check my portfolio health",
+                "cta_data": "Check my portfolio health",
+                "id": 421611,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "How did different sectors perform?",
+                "cta_data": "How did different sectors perform?",
+                "id": 421478,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Compare AAPL, SPY and TSLA",
+                "cta_data": "Compare AAPL, SPY and TSLA",
+                "id": 441748,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "What else can I ask Magnifi?",
+                "cta_data": "CHEATSHEET",
+                "id": 418882,
+                "origin": "drone-global-intent"
+            }
+        ],
+        "intent_handler": "mozart_generic",
+        "matched_intent": "mozart_intent",
+        "um_is_clickable": true,
+        "responseTimestamp": "2025-05-09 00:39:57.037045+00:00",
+        "model_output": {},
+        "llm_fulfillment_engine": "mozart",
+        "response_time": {
+            "cold_start_latency": "0.0106",
+            "siesta_latency": "0.0998",
+            "active_module_latency": "0.0031",
+            "module_classifier_latency": "0.1489",
+            "coordinator_latency": "0.0000",
+            "matching_latency": "0.0003",
+            "fulfillment_latency": "19.0605",
+            "satellite_entry_check_latency": "0.0086",
+            "drone_latency": "0.3949",
+            "ending_latency": "0.0245",
+            "total_latency": "19.7511",
+            "time_to_first_token": "9.5334",
+            "response_times": {
+                "rag_fulfillment_response_time": "0.0000",
+                "fulfillment_response_time": "0.0000",
+                "parser_response_time": "0.0401",
+                "module_classifier_response_time": "0.1378",
+                "mozart_time": {
+                    "total": "10.9905",
+                    "beginning": {
+                        "latency": "0.1692",
+                        "parser": {
+                            "latency": "0.0003"
+                        },
+                        "rag_lookup": {
+                            "latency": "0.1639"
+                        }
+                    },
+                    "orchestration": {
+                        "latency": "0.1838",
+                        "orch_cache_lookup": {
+                            "latency": "0.0003"
+                        },
+                        "orch_sanitize": {
+                            "latency": "0.0000"
+                        },
+                        "orch_llm": {
+                            "latency": "0.0000"
+                        },
+                        "orch_desanitize": {
+                            "latency": "0.0000"
+                        }
+                    },
+                    "dispatching": {
+                        "latency": "8.0175",
+                        "get_portfolio|0": "0.1235",
+                        "get_underlying_holdings|1": "7.3256",
+                        "get_news_articles|2": "0.3645",
+                        "filter|3": "0.0923",
+                        "filter|4": "0.0950"
+                    },
+                    "generation": {
+                        "latency": "2.6199",
+                        "gen_cache_lookup": {
+                            "latency": "0.0000"
+                        },
+                        "llm_calls": {
+                            "latency": "2.6090",
+                            "gen_sanitize": {
+                                "latency": "0.0107"
+                            },
+                            "gen_llm": {
+                                "latency": "2.5799"
+                            },
+                            "gen_desanitize": {
+                                "latency": "0.0001"
+                            },
+                            "chart_sanitize": {
+                                "latency": "0.0000"
+                            },
+                            "chart_llm": {
+                                "latency": "0.0000"
+                            },
+                            "chart_desanitize": {
+                                "latency": "0.0000"
+                            }
+                        },
+                        "verify_numbers_in_response": {
+                            "latency": "0.0174"
+                        }
+                    },
+                    "ending": {
+                        "latency": "0.0001"
+                    }
+                }
+            }
+        },
+        "use_cached_result": false,
+        "is_new_parser_used": true
+    },
+    "name": "result"
+}

@@ -1,0 +1,57 @@
+query getReusableProfileData {
+  profile {
+    achRelations {
+      isActive
+      status
+    }
+    portfolio {
+      brokerAccountsLinked {
+        brokerName
+        officialName
+        externalAccType
+        base64Image
+        status
+        lastUpdate
+        institutionId
+        mask
+        brokerFilter
+      }
+      withdrawableAmount
+      buyingPower
+      settledBalance
+      heldawayCash
+      mmiCash
+      cashBalance
+      totalAccountValue
+      total
+      holdings {
+        brokerName
+        brokerFilter
+        quantity
+        averageCost
+        marketValue
+        temporaryHolding
+        type
+        id
+        quantityAcats
+        instrument {
+          ticker
+          nav
+          priceChange
+          percentChange
+          isTradable
+          type
+          tradability
+          shortName
+          sponsorDetails {
+            sponsor
+            sponsorLogoUrl
+          }
+          id
+          name
+          minimumInvestment
+        }
+      }
+    }
+  }
+} 

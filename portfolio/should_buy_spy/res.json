@@ -1,0 +1,330 @@
+{
+    "type": "done",
+    "data": {
+        "response": [
+            {
+                "text": {
+                    "text": [
+                        "Whether you should buy <ticker>SPY</ticker> depends on your risk profile and investment goals."
+                    ]
+                }
+            },
+            {
+                "text": {
+                    "text": [
+                        "The calculations below assume that you invest $1000 (0.1% of your portfolio) into <ticker>SPY</ticker>.\nThe positives to your portfolio are \nThe negatives to your portfolio are "
+                    ]
+                }
+            },
+            {
+                "key": "",
+                "type": "IMPACT_MODULE",
+                "data": {
+                    "payload": {
+                        "impactTicker": "SPY",
+                        "startDate": "2024-05-08",
+                        "endDate": "2025-05-08",
+                        "impactSeries": [
+                            {
+                                "slider_value": 0,
+                                "slider_dollar_value": 0,
+                                "amount_delta": 0,
+                                "delta_ret": 0,
+                                "delta_risk": 0,
+                                "delta_yield": 0,
+                                "delta_pe": 0
+                            },
+                            {
+                                "slider_value": 0.004,
+                                "slider_dollar_value": 1000,
+                                "amount_delta": 1000.0,
+                                "delta_ret": 0.0,
+                                "delta_risk": 0.0,
+                                "delta_yield": 0.0,
+                                "delta_pe": 0.0
+                            },
+                            {
+                                "slider_value": 0.04,
+                                "slider_dollar_value": 10000,
+                                "amount_delta": 10002.0,
+                                "delta_ret": 0.02,
+                                "delta_risk": 0.02,
+                                "delta_yield": 0.01,
+                                "delta_pe": 0.01
+                            },
+                            {
+                                "slider_value": 0.08,
+                                "slider_dollar_value": 20000,
+                                "amount_delta": 20007.0,
+                                "delta_ret": 0.03,
+                                "delta_risk": 0.04,
+                                "delta_yield": 0.02,
+                                "delta_pe": 0.03
+                            },
+                            {
+                                "slider_value": 0.12,
+                                "slider_dollar_value": 30000,
+                                "amount_delta": 30015.0,
+                                "delta_ret": 0.05,
+                                "delta_risk": 0.07,
+                                "delta_yield": 0.02,
+                                "delta_pe": 0.04
+                            },
+                            {
+                                "slider_value": 0.22,
+                                "slider_dollar_value": 55000,
+                                "amount_delta": 55051.0,
+                                "delta_ret": 0.09,
+                                "delta_risk": 0.12,
+                                "delta_yield": 0.04,
+                                "delta_pe": 0.08
+                            },
+                            {
+                                "slider_value": 0.32,
+                                "slider_dollar_value": 80000,
+                                "amount_delta": 80105.0,
+                                "delta_ret": 0.13,
+                                "delta_risk": 0.17,
+                                "delta_yield": 0.06,
+                                "delta_pe": 0.11
+                            },
+                            {
+                                "slider_value": 0.42,
+                                "slider_dollar_value": 105000,
+                                "amount_delta": 105177.0,
+                                "delta_ret": 0.17,
+                                "delta_risk": 0.22,
+                                "delta_yield": 0.08,
+                                "delta_pe": 0.14
+                            },
+                            {
+                                "slider_value": 0.52,
+                                "slider_dollar_value": 130000,
+                                "amount_delta": 130266.0,
+                                "delta_ret": 0.2,
+                                "delta_risk": 0.26,
+                                "delta_yield": 0.1,
+                                "delta_pe": 0.17
+                            },
+                            {
+                                "slider_value": 0.62,
+                                "slider_dollar_value": 155000,
+                                "amount_delta": 155371.0,
+                                "delta_ret": 0.24,
+                                "delta_risk": 0.31,
+                                "delta_yield": 0.11,
+                                "delta_pe": 0.2
+                            },
+                            {
+                                "slider_value": 0.72,
+                                "slider_dollar_value": 180000,
+                                "amount_delta": 180490.0,
+                                "delta_ret": 0.27,
+                                "delta_risk": 0.35,
+                                "delta_yield": 0.13,
+                                "delta_pe": 0.23
+                            },
+                            {
+                                "slider_value": 0.82,
+                                "slider_dollar_value": 205000,
+                                "amount_delta": 205624.0,
+                                "delta_ret": 0.3,
+                                "delta_risk": 0.4,
+                                "delta_yield": 0.14,
+                                "delta_pe": 0.26
+                            },
+                            {
+                                "slider_value": 0.92,
+                                "slider_dollar_value": 230000,
+                                "amount_delta": 230770.0,
+                                "delta_ret": 0.33,
+                                "delta_risk": 0.44,
+                                "delta_yield": 0.16,
+                                "delta_pe": 0.29
+                            },
+                            {
+                                "slider_value": 1.0,
+                                "slider_dollar_value": 250000,
+                                "amount_delta": 250896.0,
+                                "delta_ret": 0.36,
+                                "delta_risk": 0.47,
+                                "delta_yield": 0.17,
+                                "delta_pe": 0.31
+                            }
+                        ],
+                        "timePeriod": "1 Year",
+                        "portfolioValue": 0,
+                        "impactTickerPrice": 565.06,
+                        "sliderScale": {
+                            "min": 0,
+                            "max": 250000
+                        },
+                        "portfolioStats": {
+                            "absolute_returns": 8.73,
+                            "annualised_volatility": 17.15,
+                            "yield": 0.27,
+                            "pe_ratio": 22.6,
+                            "eps_growth": null,
+                            "sector_name": null,
+                            "sector_exposure": null
+                        },
+                        "maxAllowedDollarAmount": 250000,
+                        "userHeldDollarAmount": 0,
+                        "transactionType": "buy",
+                        "charts": {
+                            "type": "PIE_CHART",
+                            "data": null,
+                            "metadata": {
+                                "centerLabel": "Portfolio Distribution"
+                            }
+                        }
+                    }
+                },
+                "origin": "mozart"
+            }
+        ],
+        "responseOptions": [
+            {
+                "type": "TEXT",
+                "label": "Link my brokerage account",
+                "cta_data": "Link my brokerage account",
+                "id": 421495,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Latest news about my portfolio",
+                "cta_data": "Latest news about my portfolio",
+                "id": 421502,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Top performing holdings in my portfolio",
+                "cta_data": "Top performing holdings in my portfolio",
+                "id": 421476,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Check my portfolio health",
+                "cta_data": "Check my portfolio health",
+                "id": 421611,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "How did different sectors perform?",
+                "cta_data": "How did different sectors perform?",
+                "id": 421478,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "What else can I ask Magnifi?",
+                "cta_data": "CHEATSHEET",
+                "id": 418882,
+                "origin": "drone-global-intent"
+            }
+        ],
+        "intent_handler": "mozart_generic",
+        "matched_intent": "mozart_intent",
+        "um_is_clickable": true,
+        "responseTimestamp": "2025-05-09 00:37:12.231321+00:00",
+        "model_output": {},
+        "llm_fulfillment_engine": "mozart",
+        "response_time": {
+            "cold_start_latency": "0.0107",
+            "siesta_latency": "0.1125",
+            "active_module_latency": "0.0037",
+            "module_classifier_latency": "0.2028",
+            "coordinator_latency": "0.0000",
+            "matching_latency": "0.0004",
+            "fulfillment_latency": "8.5544",
+            "satellite_entry_check_latency": "0.0069",
+            "drone_latency": "0.3543",
+            "ending_latency": "0.0109",
+            "total_latency": "9.2566",
+            "time_to_first_token": "5.2741",
+            "response_times": {
+                "rag_fulfillment_response_time": "0.0000",
+                "fulfillment_response_time": "0.0000",
+                "parser_response_time": "0.0361",
+                "module_classifier_response_time": "0.1890",
+                "mozart_time": {
+                    "total": "5.5867",
+                    "beginning": {
+                        "latency": "0.4294",
+                        "parser": {
+                            "latency": "0.2292"
+                        },
+                        "rag_lookup": {
+                            "latency": "0.1956"
+                        }
+                    },
+                    "orchestration": {
+                        "latency": "0.1307",
+                        "orch_cache_lookup": {
+                            "latency": "0.0003"
+                        },
+                        "orch_sanitize": {
+                            "latency": "0.0000"
+                        },
+                        "orch_llm": {
+                            "latency": "0.0000"
+                        },
+                        "orch_desanitize": {
+                            "latency": "0.0000"
+                        }
+                    },
+                    "dispatching": {
+                        "latency": "3.5496",
+                        "get_portfolio|1": "0.1464",
+                        "newsletter_search|0": "0.2683",
+                        "get_attribute|2": "0.2212",
+                        "calculate|3": "0.4195",
+                        "sort|4": "0.1158",
+                        "aggregate|5": "0.3500",
+                        "analyze_impact|6": "2.4662"
+                    },
+                    "generation": {
+                        "latency": "1.4768",
+                        "gen_cache_lookup": {
+                            "latency": "0.0000"
+                        },
+                        "llm_calls": {
+                            "latency": "1.4603",
+                            "gen_sanitize": {
+                                "latency": "0.0105"
+                            },
+                            "gen_llm": {
+                                "latency": "1.4469"
+                            },
+                            "gen_desanitize": {
+                                "latency": "0.0001"
+                            },
+                            "chart_sanitize": {
+                                "latency": "0.0000"
+                            },
+                            "chart_llm": {
+                                "latency": "0.0000"
+                            },
+                            "chart_desanitize": {
+                                "latency": "0.0000"
+                            }
+                        },
+                        "verify_numbers_in_response": {
+                            "latency": "0.0017"
+                        }
+                    },
+                    "ending": {
+                        "latency": "0.0002"
+                    }
+                }
+            }
+        },
+        "use_cached_result": false,
+        "is_new_parser_used": true
+    },
+    "name": "result"
+}

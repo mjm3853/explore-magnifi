@@ -1,0 +1,155 @@
+{
+    "type": "done",
+    "data": {
+        "response": [
+            {
+                "text": {
+                    "text": [
+                        "The Sharpe ratio for <ticker>NVDA</ticker> (NVIDIA Corporation) from February 7, 2025, to May 8, 2025, is -0.27. Returns are based on market prices and include re-invested distributions over the specified period, less fund expenses, including management fees and other expenses."
+                    ]
+                }
+            }
+        ],
+        "responseOptions": [
+            {
+                "type": "TEXT",
+                "label": "Should I buy NVDA?",
+                "cta_data": "Should I buy NVDA?",
+                "id": 422387,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Latest news about my portfolio",
+                "cta_data": "Latest news about my portfolio",
+                "id": 421502,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Top performing holdings in my portfolio",
+                "cta_data": "Top performing holdings in my portfolio",
+                "id": 421476,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Check my portfolio health",
+                "cta_data": "Check my portfolio health",
+                "id": 421611,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "How did different sectors perform?",
+                "cta_data": "How did different sectors perform?",
+                "id": 421478,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "What else can I ask Magnifi?",
+                "cta_data": "CHEATSHEET",
+                "id": 418882,
+                "origin": "drone-global-intent"
+            },
+            {
+                "type": "TEXT",
+                "label": "How is Sharpe Ratio calculated?"
+            }
+        ],
+        "intent_handler": "mozart_generic",
+        "matched_intent": "mozart_intent",
+        "um_is_clickable": true,
+        "responseTimestamp": "2025-05-09 00:26:08.958643+00:00",
+        "model_output": {},
+        "llm_fulfillment_engine": "mozart",
+        "response_time": {
+            "cold_start_latency": "0.0128",
+            "siesta_latency": "0.0815",
+            "active_module_latency": "0.4289",
+            "module_classifier_latency": "0.1651",
+            "coordinator_latency": "0.0000",
+            "matching_latency": "0.0015",
+            "fulfillment_latency": "5.0660",
+            "satellite_entry_check_latency": "0.0044",
+            "drone_latency": "0.3311",
+            "ending_latency": "0.0035",
+            "total_latency": "6.0948",
+            "time_to_first_token": "2.1389",
+            "response_times": {
+                "rag_fulfillment_response_time": "0.0000",
+                "fulfillment_response_time": "0.0000",
+                "parser_response_time": "0.0842",
+                "module_classifier_response_time": "0.1624",
+                "mozart_time": {
+                    "total": "2.2014",
+                    "beginning": {
+                        "latency": "0.1410",
+                        "parser": {
+                            "latency": "0.0003"
+                        },
+                        "rag_lookup": {
+                            "latency": "0.1355"
+                        }
+                    },
+                    "orchestration": {
+                        "latency": "0.1269",
+                        "orch_cache_lookup": {
+                            "latency": "0.0003"
+                        },
+                        "orch_sanitize": {
+                            "latency": "0.0000"
+                        },
+                        "orch_llm": {
+                            "latency": "0.0000"
+                        },
+                        "orch_desanitize": {
+                            "latency": "0.0000"
+                        }
+                    },
+                    "dispatching": {
+                        "latency": "0.3382",
+                        "get_attribute|0": "0.3337"
+                    },
+                    "generation": {
+                        "latency": "1.5950",
+                        "gen_cache_lookup": {
+                            "latency": "0.0000"
+                        },
+                        "llm_calls": {
+                            "latency": "1.5838",
+                            "gen_sanitize": {
+                                "latency": "0.0121"
+                            },
+                            "gen_llm": {
+                                "latency": "1.5671"
+                            },
+                            "gen_desanitize": {
+                                "latency": "0.0004"
+                            },
+                            "chart_sanitize": {
+                                "latency": "0.0000"
+                            },
+                            "chart_llm": {
+                                "latency": "0.0000"
+                            },
+                            "chart_desanitize": {
+                                "latency": "0.0000"
+                            }
+                        },
+                        "verify_numbers_in_response": {
+                            "latency": "0.0028"
+                        }
+                    },
+                    "ending": {
+                        "latency": "0.0003"
+                    }
+                }
+            }
+        },
+        "use_cached_result": false,
+        "is_new_parser_used": true
+    },
+    "name": "result"
+}

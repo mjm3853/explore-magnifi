@@ -1,0 +1,120 @@
+{
+    "type": "json",
+    "data": {
+        "response": [
+            {
+                "text": {
+                    "text": [
+                        "Great. I\u2019ll remember that. Here are a few popular ways I help investors like you every day. Which is your highest priority right now?"
+                    ]
+                }
+            },
+            {
+                "type": "FIXED_RESPONSE_OPTIONS",
+                "data": [
+                    {
+                        "cta_data": "Checking my portfolio health",
+                        "type": "TEXT",
+                        "label": "Checking my portfolio health"
+                    },
+                    {
+                        "cta_data": "Tracking my performance",
+                        "type": "TEXT",
+                        "label": "Tracking my performance"
+                    },
+                    {
+                        "cta_data": "Understanding my risk exposure",
+                        "type": "TEXT",
+                        "label": "Understanding my risk exposure"
+                    },
+                    {
+                        "cta_data": "Something else",
+                        "type": "TEXT",
+                        "label": "Something else"
+                    }
+                ]
+            }
+        ],
+        "responseOptions": [
+            {
+                "type": "TEXT",
+                "label": "---clear_existing_options---",
+                "cta_data": "---clear_existing_options---",
+                "id": 15919,
+                "origin": "pre-drone"
+            },
+            {
+                "type": "TEXT",
+                "label": "What is the Sharpe Ratio of NVDA?",
+                "cta_data": "What is the Sharpe Ratio of NVDA?",
+                "id": 431255,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Latest news about my portfolio",
+                "cta_data": "Latest news about my portfolio",
+                "id": 421502,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Top performing holdings in my portfolio",
+                "cta_data": "Top performing holdings in my portfolio",
+                "id": 421476,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "Check my portfolio health",
+                "cta_data": "Check my portfolio health",
+                "id": 421611,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "How did different sectors perform?",
+                "cta_data": "How did different sectors perform?",
+                "id": 421478,
+                "origin": "drone-model-selected"
+            },
+            {
+                "type": "TEXT",
+                "label": "What else can I ask Magnifi?",
+                "cta_data": "CHEATSHEET",
+                "id": 418882,
+                "origin": "drone-global-intent"
+            }
+        ],
+        "intent_handler": "dialogflow_COLDSTART",
+        "matched_intent": "PARAMETER_FILLING",
+        "um_is_clickable": true,
+        "responseTimestamp": "2025-05-09 00:24:09.035767+00:00",
+        "model_output": {},
+        "llm_fulfillment_engine": null,
+        "response_time": {
+            "cold_start_latency": "0.0117",
+            "siesta_latency": "0.0778",
+            "active_module_latency": "0.3999",
+            "module_classifier_latency": "0.0000",
+            "coordinator_latency": "0.0000",
+            "matching_latency": "0.0000",
+            "fulfillment_latency": "0.0511",
+            "satellite_entry_check_latency": "0.0008",
+            "drone_latency": "0.3418",
+            "ending_latency": "0.0013",
+            "total_latency": "0.8844",
+            "time_to_first_token": null,
+            "response_times": {
+                "rag_fulfillment_response_time": "0.0000",
+                "fulfillment_response_time": "0.0000",
+                "parser_response_time": "0.0000",
+                "module_classifier_response_time": "0.0000",
+                "mozart_time": {}
+            }
+        },
+        "use_cached_result": false,
+        "is_new_parser_used": true
+    },
+    "name": "result"
+}
