@@ -1,0 +1,15 @@
+{
+    "user_query": "What's the risk rating of my current portfolio allocation?",
+    "expected_tool_calls_sequence": [
+        {
+            "tool_name": "assess_portfolio_risk_level",
+            "tool_inputs": {
+                "user_id": "current_user"
+            }
+        }
+    ],
+    "essential_answer_facts": [
+        "Based on your current holdings, your portfolio risk rating is assessed as [e.g., Moderately Aggressive]",
+        "Key contributors to this rating include [e.g., high allocation to volatile stocks/sectors]"
+    ]
+}
