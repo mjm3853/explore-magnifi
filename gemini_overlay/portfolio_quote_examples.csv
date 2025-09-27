@@ -1,0 +1,101 @@
+Category,Question
+Basic Portfolio Balance,What's my total portfolio value?
+Basic Portfolio Balance,How much is my balance at Fidelity?
+Basic Portfolio Balance,What are my holdings outside of Fidelity worth?
+Basic Portfolio Balance,What was my total dollar gain or loss today?
+Basic Portfolio Balance,Today's change percentage?
+Basic Portfolio Balance,What's the balance in the Brokerage account?
+Basic Portfolio Balance,Retirement accounts total balance?
+Basic Portfolio Balance,Balance in FMR Profit Sharing?
+Basic Portfolio Balance,Balance in Professionally Managed account?
+Basic Portfolio Balance,Current balance in Cash Management?
+Account-Specific Balance,Balance in the Health Savings Account (HSA)?
+Account-Specific Balance,Total balance for all credit cards?
+Account-Specific Balance,How much is in the Bank of America savings account?
+Account-Specific Balance,Balance on my Visa Signature Rewards card?
+Account-Specific Balance,Total Spend & Save group balance?
+Account-Specific Balance,What is the balance of the Fidelity Go account?
+Account-Specific Balance,What is the balance of the Fidelity RHRP account?
+Account-Specific Balance,What is the balance of the Credit Cards group?
+Account-Specific Balance,What is the balance of the Bank of America Checking account?
+Account-Specific Balance,What is the total balance of Fidelity accounts?
+Daily Performance & Changes,What was the Day change for my Brokerage account?
+Daily Performance & Changes,What was the Day change for Fidelity Go?
+Daily Performance & Changes,What was the Day change for Cash Management?
+Daily Performance & Changes,What was the Day change for the HSA account?
+Daily Performance & Changes,What is the total Day change across all accounts?
+Daily Performance & Changes,What is the Day change percentage for all Fidelity accounts?
+Daily Performance & Changes,How much is my Today's gain/loss $ for all accounts?
+Daily Performance & Changes,What is the Today's gain/loss % for all accounts?
+Daily Performance & Changes,What is the Today's gain/loss $ for the Brokerage account?
+Daily Performance & Changes,What was the total Day change dollar amount for all Fidelity accounts?
+Position Values & Holdings,What is the Current value of all my holdings?
+Position Values & Holdings,What is the current value of my NVDA holding?
+Position Values & Holdings,How much is my SOXX position worth?
+Position Values & Holdings,What is the current value of my FTEC holding?
+Position Values & Holdings,What is the current price of GME?
+Position Values & Holdings,What is the current value of FITFX?
+Position Values & Holdings,How much money do I have in the FID EMRG MKTS IDX (FPADX)?
+Position Values & Holdings,What is the current value of Cash HELD IN FCASH?
+Position Values & Holdings,What is the Total value of the positions in the Brokerage account?
+Position Values & Holdings,What is the Grand total current value?
+Share Quantities & Cost Basis,How many Quantity of NVDA shares do I own?
+Share Quantities & Cost Basis,How many shares of IVV do I own?
+Share Quantities & Cost Basis,What is the Average cost basis for DBA?
+Share Quantities & Cost Basis,What is my average cost for F (Ford)?
+Share Quantities & Cost Basis,What is the Cost basis total for JPM?
+Share Quantities & Cost Basis,What is the Quantity of NVDA shares held?
+Share Quantities & Cost Basis,How many shares of FLAPX did I sell on Sep-15-2025?
+Share Quantities & Cost Basis,What is the Average cost basis for a specific holding?
+Share Quantities & Cost Basis,What is the Current value of the F (Ford) holding?
+Share Quantities & Cost Basis,How much of the HSA is invested in AAPL?
+Stock Prices & Market Data,What is the Last price for GOOGL?
+Stock Prices & Market Data,What was the Last price change for MSFT?
+Stock Prices & Market Data,What is the current price of Gold?
+Stock Prices & Market Data,What is the current price of Bitcoin?
+Stock Prices & Market Data,What did the Dow Jones close at?
+Stock Prices & Market Data,S&P 500 percentage change today?
+Stock Prices & Market Data,Nasdaq closing value?
+Stock Prices & Market Data,Price of Crude oil?
+Stock Prices & Market Data,Gold price?
+Stock Prices & Market Data,Bitcoin price and change?
+Performance Metrics,What is the Total return percentage?
+Performance Metrics,What is the Total return dollar amount?
+Performance Metrics,What is the Time-weighted rate of return (pre-tax)?
+Performance Metrics,What is my total Balance?
+Performance Metrics,What is the total Invested amount?
+Performance Metrics,What is the total Cash balance?
+Performance Metrics,How much is my Investment income?
+Performance Metrics,What are my Net deposits and withdrawals?
+Performance Metrics,Performance for 1M?
+Performance Metrics,YTD performance?
+Gain/Loss Information,What is the Total gain/loss $ for the Brokerage account?
+Gain/Loss Information,What is the Total gain/loss % for GOOGL?
+Gain/Loss Information,What is the Total gain/loss % for DNN?
+Gain/Loss Information,How did DNN perform in total (Total gain/loss %)?
+Gain/Loss Information,What is the total gain on WMT?
+Gain/Loss Information,What is the Today's gain/loss % for GFS?
+Gain/Loss Information,How did my ALB stock perform today?
+Gain/Loss Information,What's the total gain/loss for the whole HSA account?
+Gain/Loss Information,What is the Today's gain/loss $ for the SOXX holding?
+Gain/Loss Information,What is the Total gain/loss dollar amount for a specific holding?
+Asset Allocation & Portfolio Composition,What percentage of my portfolio is in Domestic Stock?
+Asset Allocation & Portfolio Composition,What percentage is allocated to Foreign Stock?
+Asset Allocation & Portfolio Composition,What is the allocation percentage for Short Term investments?
+Asset Allocation & Portfolio Composition,How much money is allocated to Bonds?
+Asset Allocation & Portfolio Composition,What does the Other category include?
+Asset Allocation & Portfolio Composition,What percentage of the portfolio is allocated to Short Term?
+Asset Allocation & Portfolio Composition,What is the percentage of the portfolio in Bonds?
+Asset Allocation & Portfolio Composition,What does % of account represent?
+Asset Allocation & Portfolio Composition,What percentage of my assets are exposed to North America?
+Asset Allocation & Portfolio Composition,What is my exposure to Europe Developed?
+Available Funds & Trading,What does Available to trade (all settled) mean?
+Available Funds & Trading,What is the dollar amount Available to trade?
+Available Funds & Trading,What is the dollar amount Available to withdraw?
+Available Funds & Trading,What is the dollar amount Available to trade (all settled) in the Brokerage account?
+Available Funds & Trading,What is the dollar amount Available to withdraw in the Cash Management account?
+Available Funds & Trading,What is the dollar amount Available to withdraw in the HSA account?
+Available Funds & Trading,What is the dollar amount of Unsettled activity?
+Available Funds & Trading,Can I withdraw the full balance from Cash Management?
+Available Funds & Trading,Does the available to trade amount include unsettled funds?
+Available Funds & Trading,Why is the available to withdraw amount different from the total balance?
